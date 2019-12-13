@@ -1,0 +1,6 @@
+framework module Pods_FN_GS {
+  umbrella header "Pods-FN_GS-umbrella.h"
+
+  export *
+  module * { export * }
+}
